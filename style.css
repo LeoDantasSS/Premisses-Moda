@@ -23,7 +23,7 @@ img {
   --header-height: 4.5rem;
 
   /* colors */
-  --hue: 159;
+  --hue: 335;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -145,13 +145,10 @@ body {
 .logo {
   font: 700 1.31rem var(--title-font);
   color: var(--title-color);
-}
-
-.logo span {
   color: var(--base-color);
 }
 
-.logo-alt span {
+.logo-alt {
   color: var(--body-color);
 }
 
