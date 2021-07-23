@@ -280,7 +280,7 @@ nav.show div.icon-close {
 
 #home .image img {
   position: relative;
-  right: 2.93rem;
+  right: -10%;
 }
 
 #home .image img,
@@ -328,6 +328,7 @@ nav.show div.icon-close {
 
 #about .image img {
   position: relative;
+  border: 0.01px solid var(--base-color);
 }
 
 #about .image img,
