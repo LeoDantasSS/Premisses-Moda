@@ -4,7 +4,7 @@
 <br>
 
 <div align="center" >
-<img src="./assets/Gif/Web.gif" alt="demo-web" height="380">
+<img src="./assets/Gif/web.gif" alt="demo-web" height="380">
 <img src="./assets/Gif/mobile.gif" alt="demo-mobile" height="400">
 </div>
 
