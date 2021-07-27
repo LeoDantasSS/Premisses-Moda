@@ -4,8 +4,8 @@
 <br>
 
 <div align="center" >
-<img src="./assets/Gif/web.gif" alt="demo-web" height="320">
-<img src="./assets/Gif/mobile.gif" alt="demo-mobile" height="320">
+<img src="./assets/Gif/web.gif" alt="demo-web" height="300">
+<img src="./assets/Gif/mobile.gif" alt="demo-mobile" height="300">
 </div>
 
 <br>
