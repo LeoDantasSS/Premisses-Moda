@@ -656,7 +656,7 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
-/* large devices: 1023 > */
+
 /* large devices: 992 > */
 @media (min-width: 992px) {
   :root {
@@ -673,10 +673,6 @@ footer .social a:hover {
   /* services */
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
-  }
-
-  .card {
-    padding-inline: 1rem;
   }
 
   /* contact */
@@ -704,4 +700,3 @@ footer .social a:hover {
     font-size: 2.25rem;
   }
 }
-/* medium devices: 767 > */
