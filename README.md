@@ -2,10 +2,10 @@
 
 <div align="center">
 <nav>
-          <a href="#Technologies">Tecnologias |</a>
-          <a href="#library">Bibliotecas |</a>
-          <a href="#utilities">Utilitários |</a>
-          <a href="#Project">Projeto |</a>
+          <a href="#Technologies">Tecnologias </a>|
+          <a href="#library">Bibliotecas </a>|
+          <a href="#utilities">Utilitários </a>|
+          <a href="#Project">Projeto </a>|
           <a href="#knowledge">Conhecimentos</a>
         </nav>
 </div>
