@@ -31,14 +31,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="library"> Bibliotecas </h2>
 
-- Google Fonts
-- SwipeJS
-- ScrollRevel
+- <a href="https://fonts.google.com/">Google Fonts</a>
+- <a href="https://scrollrevealjs.org/">SwipeJS</a>
+- <a href="https://github.com/nolimits4web/Swiper">ScrollRevel</a>
 
 <h2 id="utilities"> Utilitários </h2>
 
-- randomuser.me
-- IconMoon
+- <a href="https://randomuser.me/photos">randomuser.me</a>
+- <a href="https://icomoon.io/app/#/select">IconMoon</a>
 
 <h2 id="Project"> Projeto </h2>
 
